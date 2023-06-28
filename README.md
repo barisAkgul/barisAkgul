@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="left">Hi there, I'm Baris 👋🏻 </h1>
+<h3 align="left"> I am interested in Frontend technologies. Therefore, I am using JavaScript and React Framework to develop frontend projects. </h3>
+<h5 align="left">📍 Currently base at: Istanbul, Turkey</h5>
+
 
 <!--
 **barisAkgul/barisAkgul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
