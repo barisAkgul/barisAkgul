@@ -3,6 +3,11 @@
 <h5 align="left">📍 Currently base at: Istanbul, Turkey</h5>
 
 
+
+<div size='20px'> 
+<h2 align='left'> Connect with me 🙋🏼‍♀️ </h2>
+<p align='left'>
+<a href = 'https://www.linkedin.com/in/barisakgul/'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 <!--
 **barisAkgul/barisAkgul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
